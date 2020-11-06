@@ -1,0 +1,7 @@
+c:\users\probook\documents\visual studio 2010\Projects\BankAccount\BankAccount\bin\Debug\BankAccount.exe
+c:\users\probook\documents\visual studio 2010\Projects\BankAccount\BankAccount\bin\Debug\BankAccount.pdb
+c:\users\probook\documents\visual studio 2010\Projects\BankAccount\BankAccount\obj\x86\Debug\BankAccount.Form1.resources
+c:\users\probook\documents\visual studio 2010\Projects\BankAccount\BankAccount\obj\x86\Debug\BankAccount.Properties.Resources.resources
+c:\users\probook\documents\visual studio 2010\Projects\BankAccount\BankAccount\obj\x86\Debug\BankAccount.csproj.GenerateResource.Cache
+c:\users\probook\documents\visual studio 2010\Projects\BankAccount\BankAccount\obj\x86\Debug\BankAccount.exe
+c:\users\probook\documents\visual studio 2010\Projects\BankAccount\BankAccount\obj\x86\Debug\BankAccount.pdb
